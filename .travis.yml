@@ -1,0 +1,8 @@
+language: ruby
+rvm:
+  - 2.0.0
+  - 2.1.1
+script: bundle exec rspec
+notifications:
+  on_success: always
+  on_failure: always
