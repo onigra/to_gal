@@ -1,3 +1,7 @@
+# String#to_gal
+
+[![Build Status](https://travis-ci.org/onigra/to_gal.svg?branch=master)](https://travis-ci.org/onigra/to_gal)
+
 ## Installation
 
 Add this line to your application's Gemfile:
