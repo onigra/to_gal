@@ -1,5 +1,5 @@
 class String
   def to_gal
-    self.tr(*ToGal::Dictionary::TR_ARGS)
+    self.gsub(/(\p{hiragana}{2})\1/, '\1②').tr(*ToGal::Dictionary::TR_ARGS)
   end
 end
