@@ -81,5 +81,19 @@ describe String do
       it { should eq 'o' }
     end
 
+    context '繰り返し文字' do
+      context 'そもそも' do
+        subject { 'そもそも'.to_gal }
+
+        it { should eq 'そも②' }
+      end
+
+      context 'いろいろ' do
+        subject { 'いろいろ'.to_gal }
+
+        it { should eq 'ぃろ②' }
+      end
+    end
+
   end
 end
