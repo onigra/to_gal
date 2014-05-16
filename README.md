@@ -1,6 +1,6 @@
 # String#to_gal
 
-[![Build Status](https://travis-ci.org/onigra/to_gal.svg?branch=master)](https://travis-ci.org/onigra/to_gal)
+[![Build Status](https://travis-ci.org/onigra/to_gal.svg?branch=master)](https://travis-ci.org/onigra/to_gal) [![Coverage Status](https://coveralls.io/repos/onigra/to_gal/badge.png)](https://coveralls.io/r/onigra/to_gal) [![Code Climate](https://codeclimate.com/github/onigra/to_gal.png)](https://codeclimate.com/github/onigra/to_gal)
 
 ## Installation
 
